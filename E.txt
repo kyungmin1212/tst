@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 main에서 수정 코드~~~
-=======
 feature에서 수정
->>>>>>> feature
+feature2에서 ㅋ코드 수정 ~~~~
